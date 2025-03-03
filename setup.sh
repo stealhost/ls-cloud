@@ -12,7 +12,7 @@ sudo systemctl enable docker
 
 # Clone the LS-Cloud repository (assuming it's in your directory)
 echo "Cloning LS-Cloud repository..."
-git clone https://github.com/yourusername/ls-cloud.git
+git clone https://github.com/stealhost/ls-cloud.git
 cd ls-cloud
 
 # Install Node.js dependencies
